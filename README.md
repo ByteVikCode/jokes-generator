@@ -1,6 +1,6 @@
 # jokes-generator
-Robot Jokes Generator 🤖😂
-This is a fun Robot Jokes Generator web app that displays random jokes using the icanhazdadjoke API. The UI features a sleek, modern design with smooth animations, a Baymax-themed background, and an interactive chat-style message box.
+Jokes Generator 🤖😂
+This is a fun Jokes Generator web app that displays random jokes using the icanhazdadjoke API. The UI features a sleek, modern design with smooth animations, a Baymax-themed background, and an interactive chat-style message box.
 
 ✨ Features:
 ✅ Animated UI: Smooth fade-in effects and interactive elements
@@ -12,6 +12,7 @@ This is a fun Robot Jokes Generator web app that displays random jokes using the
 HTML
 CSS (Custom Animations)
 JavaScript (Fetch API)
+
 📌 Check out the live demo: [GitHub Pages Link (if hosted)]
 
 💻 Feel free to fork, star ⭐, and contribute!
