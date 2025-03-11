@@ -13,6 +13,6 @@ HTML
 CSS (Custom Animations)
 JavaScript (Fetch API)
 
-📌 Check out the live demo: [GitHub Pages Link (if hosted)]
+📌 Check out the live demo: https://github.com/ByteVikCode/jokes-generator/blob/main/jokes-generator.php
 
 💻 Feel free to fork, star ⭐, and contribute!
